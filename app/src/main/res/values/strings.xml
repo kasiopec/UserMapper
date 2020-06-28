@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserMapper</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="could_not_retrieve_location">No address found </string>
+</resources>
